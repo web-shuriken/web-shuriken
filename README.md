@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![My banner image with a computer screen and shurikens](./web-banner-live.png "My banner")
+
+- 🔭 I’m currently working on #100 Days of Code Challenge.
+- 🌱 I’m currently learning all I can regarding web technology, 1 technology at a time.
+- 👯 Collaboration on here still new to me so if you have a Readme which needs updating or maybe JS bug testing let us work together.
+- 📫 How to reach me:
+  - email: carlos.alford@gmail.com
+  - twitter: @webshuriken
+- ⚡ Fun fact: Used to play tennis competitively even had a rank.. many moons ago.
+
 <!--
 **CarlosEAM/CarlosEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
