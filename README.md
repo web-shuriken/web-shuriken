@@ -1,9 +1,9 @@
-### Hi there 👋
-
 ![My banner image with a computer screen and shurikens](./web-banner-live.png "My banner")
 
+### Good morning / afternoon / night 👋
+
 - 🔭 I’m currently working on #100 Days of Code Challenge.
-- 🌱 I’m currently learning all I can regarding web technology, 1 technology at a time.
+- 🌱 With it Im learning all I can regarding web technology, 1 technology at a time.
 - 👯 Collaboration on here still new to me so if you have a Readme which needs updating or maybe JS bug testing let us work together.
 - 📫 How to reach me:
   - email: carlos.alford@gmail.com
