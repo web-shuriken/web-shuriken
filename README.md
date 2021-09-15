@@ -1,4 +1,4 @@
-![My banner image with a computer screen and shurikens](./web-banner-live.png "My banner")
+![My banner image with a computer screen and shurikens](./web-banner-live-b.png "My banner")
 
 ### Good morning / afternoon / night 👋
 
