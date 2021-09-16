@@ -1,6 +1,10 @@
+### Hey there Carlos here 👋
+
 ![My banner image with a computer screen and shurikens](./twitter-banner-live-b.png "My banner")
 
-### Good morning / afternoon / night 👋
+My passion is coding since I was young and used MS-DOS to play a game.
+Things did not go as planned so ended up in a different career. Enough is enough, now it't time to do what I love which is coding.
+I want to specialise in frontend development although backend is also very appealing.
 
 - 🔭 I’m currently working on #100 Days of Code Challenge.
 - 🌱 With it Im learning all I can regarding web technology, 1 technology at a time.
