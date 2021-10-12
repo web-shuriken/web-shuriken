@@ -1,6 +1,6 @@
 ### Hey there Carlos here 👋
 
-![My banner image with a computer screen and shurikens](./twitter-banner-live-b.png "My banner")
+![My banner image with a computer screen and shurikens](./webshuriken-monitor-banner.png "My banner")
 
 My passion for coding began when I was 10 and used MS-DOS to play a game.
 Things did not go as planned so ended up in a different career. Enough is enough, now it't time to do what I love which is coding.
