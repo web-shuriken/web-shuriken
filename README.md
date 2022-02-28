@@ -4,15 +4,15 @@
 
 My passion for coding began when I was 10 and used MS-DOS to play a game.
 Things did not go as planned so ended up in a different career. Enough is enough, now it't time to do what I love which is coding.
-I want to specialise in frontend development although backend is also on the cards.
+Shall we get together and build something amazing.
 
-- 🔭 I’m currently working on #100 Days of Code Challenge and CS50W
+- 🔭 I’m currently working on CS50W
 - 🌱 With it Im learning all I can regarding web technology, 1 technology at a time.
 - 👯 Collaboration on here still new to me so if you have a Readme which needs updating or maybe JS bug testing let us work together.
 - 📫 How to reach me:
   - email: carlos.alford@gmail.com
   - twitter: @webshuriken
-- ⚡ Fun fact: Used to play tennis competitively even had a rank.. many moons ago.
+- ⚡ Fun fact: Used to play tennis competitively with a rank.. many moons ago.
 
 <!--
 **CarlosEAM/CarlosEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
