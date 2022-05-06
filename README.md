@@ -4,7 +4,9 @@
 
 Started #100DyasOfCodeChallenge back in September and came across a great supportive community. Then ran into School Of Code, applied and was accepted.
 
-- 🔭 School of Code student.
+- 🔭 School of Code cohort 12 student.
+- Hackathon week 1 - Create a rock, paper, scissors game. Got the basic functionality done but no UI just console.log
+- Hackathon week 2 - Use an API to create a frontend for it. With my pair we created a trivia game. 10 questions round.
 - 🌱 With it Im learning all I can regarding web technology, 1 technology at a time.
 - 👯 Collaboration on here still new to me so if you have a Readme which needs updating or maybe JS bug testing let us work together.
 - 📫 How to reach me:
