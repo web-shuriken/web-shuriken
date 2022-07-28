@@ -2,17 +2,14 @@
 
 ![My banner image with a computer screen and shurikens](./webshuriken-monitor-banner.png "My banner")
 
-Started #100DyasOfCodeChallenge back in September and came across a great supportive community. Then ran into School Of Code, applied and was accepted.
+## Aspiring junior web developer.
 
-- 🔭 School of Code cohort 12 student.
-- Hackathon week 1 - Create a rock, paper, scissors game. Got the basic functionality done but no UI just console.log
-- Hackathon week 2 - Use an API to create a frontend for it. With my pair we created a trivia game. 10 questions round.
-- 🌱 With it Im learning all I can regarding web technology, 1 technology at a time.
-- 👯 Collaboration on here still new to me so if you have a Readme which needs updating or maybe JS bug testing let us work together.
-- 📫 How to reach me:
-  - email: carlos.alford@gmail.com
-  - twitter: @webshuriken
-- ⚡ Fun fact: Used to play tennis competitively with a rank.. many moons ago.
+- 🔭 School of Code student, cohort 12
+- 📚 I'm currently learning Nextjs, Auth0 and MongoDB
+- 🌱 2022 goal: to get my first junior developer job and contribute to open source
+- 👯 I'm looking to collaborate with other web developers
+- ⚡ Fun fact: Used to play tennis competitively with a rank now I just play for fun.
+
 
 <!--
 **CarlosEAM/CarlosEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
