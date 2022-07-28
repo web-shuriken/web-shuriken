@@ -10,6 +10,11 @@
 - 👯 I'm looking to collaborate with other web developers
 - ⚡ Fun fact: Used to play tennis competitively with a rank now I just play for fun.
 
+---
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c)](https://github.com/webshuriken/github-readme-stats)
+
 
 <!--
 **CarlosEAM/CarlosEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
