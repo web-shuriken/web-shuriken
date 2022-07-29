@@ -48,16 +48,19 @@
   <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" />
 </p>
 
-
 <!-- Working to earch this badges
 <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" />
 <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 -->
 
 ---
-<!-- by: https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c)](https://github.com/webshuriken/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages)](https://github.com/webshuriken/github-readme-stats)
-</span>
+<!-- by: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
+</p>
+
+<p align="center">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
+</p>
 
