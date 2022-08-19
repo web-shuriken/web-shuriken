@@ -6,7 +6,7 @@
 
 ## Aspiring junior web developer.
 
-- 🔭 School of Code student, cohort 12
+- 🔭 School of Code graduate, cohort 12
 - 📚 I'm currently learning Nextjs, Auth0 and MongoDB
 - 🌱 2022 goal: to get my first junior developer job and contribute to open source
 - 👯 I'm looking to collaborate with other web developers
