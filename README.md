@@ -1,4 +1,4 @@
-Carlos E Alford: Doing my best for all things web, lets innovate and inspire.
+Hi Carlos A here ^_^ Doing my best for all things web, lets innovate and inspire.
 
 ![My banner image with a computer screen and shurikens](./webshuriken-monitor-banner.png "My banner")
 
