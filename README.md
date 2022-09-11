@@ -1,15 +1,15 @@
-### Hey there Carlos here 👋
+Carlos E Alford: Doing my best for all things web, lets innovate and inspire.
 
 ![My banner image with a computer screen and shurikens](./webshuriken-monitor-banner.png "My banner")
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/webshuriken?style=social)
 
-## Aspiring junior web developer.
+## Full Stack developer
 
 - 🔭 School of Code graduate, cohort 12
-- 📚 I'm currently learning Nextjs, Auth0 and MongoDB
-- 🌱 2022 goal: to get my first junior developer job and contribute to open source
-- 👯 I'm looking to collaborate with other web developers
+- 📚 I'm currently working on an App to learn React Native and TypeScript.
+- 🌱 2022 goal: to get my first developer job and contribute to open source
+- 👯 I'm looking to collaborate.
 - ⚡ Fun fact: Used to play tennis competitively with a rank now I just play for fun.
 
 ---
@@ -48,7 +48,7 @@
   <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" />
 </p>
 
-<!-- Working to earch this badges
+<!-- Working to earn this badges
 <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" />
 <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 -->
@@ -57,7 +57,7 @@
 
 <!-- by: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosEAM&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
 </p>
 
 <p align="center">
