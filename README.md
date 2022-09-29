@@ -1,4 +1,4 @@
-Hi Carlos Alford here ^_^ Doing my best for all things web, lets innovate and inspire.
+Hola, my name is Carlos Alford :octocat:	
 
 ![My banner image with a computer screen and shurikens](./webshuriken-monitor-banner.png "My banner")
 
@@ -6,11 +6,9 @@ Hi Carlos Alford here ^_^ Doing my best for all things web, lets innovate and in
 
 ## Full Stack developer
 
-- 🔭 School of Code graduate, cohort 12
-- 📚 I'm currently working on an App to learn React Native and TypeScript.
-- 🌱 2022 goal: to get my first developer job and contribute to open source
-- 👯 I'm looking to collaborate.
-- ⚡ Fun fact: Used to play tennis competitively with a rank now I just play for fun.
+Originally from Venezuela, I have always had a real interest in the tech industry and after working as a freelance front-end developer I became curious about the back-end process which lead to successfully joining the School of Code. An intensive coding BootCamp that helped me to fine-tune my problem-solving skills. :man_technologist: During the course, I worked with various tech stacks. I loved the whole process, from setting up the backend routes, and creating an API, to making an interface that consumes said API.
+
+I want to support the open source community so if you need help finding that missing semi-colon, creating documentation, or collaborating. Let's connect! :fist_right: :fist_left:
 
 ---
 ## Tech stack
