@@ -1,6 +1,6 @@
 Hola, my name is **Carlos Alford** :octocat:	
 
-![My banner image with a computer screen and shurikens](./webshuriken-banner_2023.gif "My banner")
+![My banner image with a computer screen and shurikens](./webshuriken_banner-2023.gif "My banner")
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/webshuriken?style=social)
 
