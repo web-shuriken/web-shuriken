@@ -51,10 +51,10 @@ I enjoy supporting the open source community so if you need help finding that mi
 
 <!-- by: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosEAM&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=web-shuriken&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
 </p>
 
 <p align="center">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-shuriken&&layout=compact&custom_title=Languages" />
 </p>
 
