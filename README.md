@@ -26,8 +26,8 @@ what can be achieved when you work with others. I’m really excited to keep gro
   <img width="120" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
+### Currently exploring
 <p float="left">
-  Currently exploring.
   <img width="120" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
