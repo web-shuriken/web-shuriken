@@ -40,7 +40,7 @@ what can be achieved when you work with others. I’m really excited to keep gro
 
 ---
 
-<!-- by: https://github.com/anuraghazra/github-readme-stats -->
+<!-- by: https://github.com/anuraghazra/github-readme-stats
 <p align="center">
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&custom_title=Carlos%20EAMs%20Github%20Stats&title_color=e8fafa&bg_color=59a3a3&text_color=ffd98c&icon_color=e8fafa&border_color=ffd98c" />
 </p>
@@ -48,4 +48,6 @@ what can be achieved when you work with others. I’m really excited to keep gro
 <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
 </p>
+
+-->
 
