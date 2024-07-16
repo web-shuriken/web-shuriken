@@ -1,15 +1,13 @@
-Hola, my name is **Carlos Alford** :octocat:	
+Hola, my name is **Carlos E. Alford** :octocat:	
 
 ![My banner image with a computer screen and shurikens](./webshuriken_banner-2023.gif "My banner")
 
+## Socials
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/webshuriken?style=social)
 
-## Full Stack developer
-
-I’m a Full Stack Developer who loves collaborating in a team setting and building full-stack apps. I am passionate about the tech industry and have worked as a freelance front-end developer for a number of years before applying to and being accepted into the prestigious School of Code Bootcamp. This intensive coding bootcamp helped me fine-tune my problem-solving skills, acquire a deeper knowledge of web development technologies and show me
-what can be achieved when you work with others. I’m really excited to keep growing as a developer and put my skills to good use while solving real-world problems.
-
 ## Tech stack
+
 <p foat="left">
   <img width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,21 +22,17 @@ what can be achieved when you work with others. I’m really excited to keep gro
   <img width="120" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
-
-### Currently exploring
-<p float="left">
   <img width="120" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img width="120" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" />
 </p>
 
-<!-- Working to earn this badges
-<img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" />
-<img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
--->
-
 ---
+
+<p align="center">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
+</p>
 
 <!-- by: https://github.com/anuraghazra/github-readme-stats
 <p align="center">
@@ -48,6 +42,5 @@ what can be achieved when you work with others. I’m really excited to keep gro
 <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
 </p>
-
 -->
 
