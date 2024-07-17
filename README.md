@@ -4,7 +4,10 @@
 
 > **"New ideas are ready to be devoured and redefined!"**
 
-## Tech stack
+**How did it all start?** playing a game on a PC that needed to be loaded using DOS.. I saw the black and white terminal and the words being typed ( i didn't know what they did ) but the computer responded, it was alien and it caught my curiousity!.
+When I became a bit older I watched a film about UNIX and started messing around with CMD in Windows. Even with my lack of knowledge CMD felt limited so I began doing some research about UNIX and that's when I learned about Linux! Bought a CD with a live version of Suse Linux and I was blown away. _Currently enjoying Fedora workstation but there have been others._
+
+## Tech tools I have used :hammer:
 
 <p foat="left">
   <img width="120" alt="html 5 badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,11 +31,11 @@
   <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
-## Projects tech stats
+## My GitHub stats :bar_chart:
 
-<p align="center">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages" />
-</p>
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshuriken&&layout=compact&custom_title=Languages&&bg_color=e7f9f9&title_color=59a3a3" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webshuriken&show_icons=true&theme=one_dark_pro&title_color=bee8e8&text_color=ffd98c&icon_color=59a3a3)
 
 <!-- by: https://github.com/anuraghazra/github-readme-stats
 <p align="center">
