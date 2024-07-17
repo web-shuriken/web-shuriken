@@ -1,10 +1,6 @@
 **"New ideas are ready to be devoured and redefined!"**
 
-![My banner image with a computer screen and shurikens](./webshuriken_banner-2023.gif "My banner")
-
-## Socials
-
-![Twitter Follow](https://img.shields.io/twitter/follow/webshuriken?style=social)
+![My banner image with a computer screen and shurikens](./monitor-banner-2024.png "My banner")
 
 ## Tech stack
 
