@@ -1,6 +1,6 @@
 **"New ideas are ready to be devoured and redefined!"**
 
-![My banner image with a computer screen and shurikens](./monitor-banner-2024.png "My banner")
+![My banner image with a computer screen and shurikens](./webshuriken-banner-2024.png "My banner")
 
 ## Tech stack
 
