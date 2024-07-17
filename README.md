@@ -1,6 +1,8 @@
-**"New ideas are ready to be devoured and redefined!"**
+## Front-end developer
 
 ![My banner image with a computer screen and shurikens](./webshuriken-banner-2024.png "My banner")
+
+> **"New ideas are ready to be devoured and redefined!"**
 
 ## Tech stack
 
