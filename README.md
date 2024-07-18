@@ -15,20 +15,23 @@ When I became a bit older I watched a film about UNIX and started messing around
   <img width="120" alt="javascript badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img width="120" alt="typescript badge" src="https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=2f73bd" />
   <img width="120" alt="python badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img width="120" alt="php badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img width="120" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img width="120" alt="nodejs badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img width="120" alt="postgres ql badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img width="120" alt="php badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" />
+  <img width="120" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img width="120" alt="nodejs badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+  <img width="120" alt="postgres ql badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img width="120" alt="mongo db badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img width="120" alt="react badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img width="120" alt="next js badge" src="https://img.shields.io/badge/Nextjs-191313?style=for-the-badge" />
+  <img width="120" alt="next js badge" src="https://img.shields.io/badge/Nextjs-191313?style=for-the-badge&logo=next.js&logoColor=ffffff" />
   <img width="120" alt="django badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img width="120" alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img width="120" alt="sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img width="120" alt="tailwind badge" src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge" />
-  <img width="120" alt="postman badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img width="120" alt="jest testing badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img width="120" alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
+  <img width="120" alt="sass badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <img width="120" alt="tailwind badge" src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+  <img width="120" alt="postman badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=ffffff" />
+  <img width="120" alt="jest testing badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" />
+  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff" />
+  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/GNU Bash-59a3a3?style=for-the-badge&logo=bash&logoColor=ffffff" />
+  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/Zod-142641?style=for-the-badge&logo=zod&logoColor=3068b7" />
+  <img width="120" alt="cypress testing badge" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=ffffff" />
 </p>
 
 ## My GitHub stats :bar_chart:
